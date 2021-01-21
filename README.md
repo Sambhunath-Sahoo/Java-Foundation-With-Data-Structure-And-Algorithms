@@ -1,1 +1,1 @@
-# Java-Foundation-With-Data-Structure-And-Algorithem-
+# Java-Foundation-With-Data-Structure-And-Algorithms-
